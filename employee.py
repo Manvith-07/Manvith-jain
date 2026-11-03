@@ -1,0 +1,6 @@
+name=input("enter employee name:")
+emp_id=input("enter employee id:")
+phone= input("enter phone number:")
+print("\n employee details")
+print("Name:",name)
+print("Employee Number :",Phone) 
